@@ -9,12 +9,14 @@ Required
 - Disclose Source
 - License and copyright notice
 - State Changes
+
 Permitted
 - Commercial Use
 - Distribution
 - Modification
 - Patent Grant
 - Private Use
+
 Forbidden
 - Hold Liable
 - Sublicensing
