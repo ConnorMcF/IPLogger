@@ -6,17 +6,17 @@ This was my first PHP project, because I couldn't think of anything else to do.
 This project is under the GNU GPL v2.0 license.
 
 Required
--Disclose Source
--License and copyright notice
--State Changes
+- Disclose Source
+- License and copyright notice
+- State Changes
 Permitted
--Commercial Use
--Distribution
--Modification
--Patent Grant
--Private Use
+- Commercial Use
+- Distribution
+- Modification
+- Patent Grant
+- Private Use
 Forbidden
--Hold Liable
--Sublicensing
+- Hold Liable
+- Sublicensing
 
 For more information, please check the LICENSE.txt file.
