@@ -6,7 +6,7 @@ This was my first PHP project, because I couldn't think of anything else to do.
 
 <h2>Setup</h2>
 
-Update the all .cfg files accordingly and read all README's.
+Update the all .cfg files accordingly and read all README's. To be honest, I'm not even sure that they do anything.
 <h2>License</h2>
 
 
